@@ -13,7 +13,13 @@ public class segitiga {
  int sisi1;
  int sisi2;
  int sisi3;
- 
+
+    public segitiga() {
+        sisi1=5;
+        sisi2=5;
+        sisi3=5;
+        
+    }
  void cetakinfo (){
      System.out.println("sisi1 : "+sisi1);
      System.out.println("sisi2 : "+sisi2);
