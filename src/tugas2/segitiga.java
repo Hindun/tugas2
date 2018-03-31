@@ -26,4 +26,8 @@ public class segitiga {
     keliling=sisi1+sisi2+sisi3;
     return keliling;
  }
+ 
+ void cetakkeliling(){
+     System.out.println("kelilingnya adalah: "+hitungkeliling());
+ }
 }
