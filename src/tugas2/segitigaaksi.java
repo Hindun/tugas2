@@ -19,6 +19,12 @@ public class segitigaaksi {
         S1.cetakinfo();
         System.out.println("keliling segitiga ="+S1.hitungkeliling());
         S1.cetakkeliling();
+        
+        segitiga S2 = new segitiga();
+        S2.cetakinfo();
+        
+        segitiga S3 = new segitiga(5,5,5);
+        S3.cetakinfo();
     }
   
 }

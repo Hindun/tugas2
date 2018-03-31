@@ -20,6 +20,13 @@ public class segitiga {
         sisi3=5;
         
     }
+
+    public segitiga(int sisi1, int sisi2, int sisi3) {
+        this.sisi1 = sisi1;
+        this.sisi2 = sisi2;
+        this.sisi3 = sisi3;
+    }
+    
  void cetakinfo (){
      System.out.println("sisi1 : "+sisi1);
      System.out.println("sisi2 : "+sisi2);
