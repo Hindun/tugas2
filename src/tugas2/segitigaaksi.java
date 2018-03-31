@@ -12,6 +12,9 @@ package tugas2;
 public class segitigaaksi {
     public static void main(String[] args) {
         segitiga S1 = new segitiga();
+        S1.sisi1 = 10;
+        S1.sisi2 = 10;
+        S1.sisi3 = 10;
     }
   
 }
