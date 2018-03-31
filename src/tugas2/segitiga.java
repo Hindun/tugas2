@@ -20,4 +20,10 @@ public class segitiga {
      System.out.println("sisi3 : "+sisi3);
      
  }
+ 
+ int hitungkeliling(){
+    int keliling;
+    keliling=sisi1+sisi2+sisi3;
+    return keliling;
+ }
 }

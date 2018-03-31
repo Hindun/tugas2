@@ -17,6 +17,7 @@ public class segitigaaksi {
         S1.sisi3 = 10;
         
         S1.cetakinfo();
+        System.out.println("keliling segitiga ="+S1.hitungkeliling());
     }
   
 }
