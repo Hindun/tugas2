@@ -15,6 +15,8 @@ public class segitigaaksi {
         S1.sisi1 = 10;
         S1.sisi2 = 10;
         S1.sisi3 = 10;
+        
+        S1.cetakinfo();
     }
   
 }
